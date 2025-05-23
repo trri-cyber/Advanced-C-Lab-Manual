@@ -1,7 +1,7 @@
 ## EXP NO 21 : C PROGRAM TO CREATE A FUNCTION TO FIND THE GREATEST NUMBER
 ```
-Developed by: Aman Singh
-Reg no.  212224040020
+Developed by: Rishab p doshi
+Reg no.  212224240134
 ```
 ## Aim:
 To write a C program to create a function to find the greatest number
